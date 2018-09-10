@@ -28,3 +28,17 @@
 	4.6		-	Filters
 	4.7		-	ng-show and hide
 	4.8		-	ng-include
+
+5	-	Services
+
+	5.3		-	Gamification
+	5.5		-	Using $log
+	5.6		-	UI Services
+	5.8		-	A GitHub Service
+
+6	-	Routing
+
+	6.4		-	The Setup
+	6.5		-	The Fixup
+	6.6		-	Your Challenge
+	6.7		-	My Solution
