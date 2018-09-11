@@ -40,5 +40,4 @@
 
 	6.4		-	The Setup
 	6.5		-	The Fixup
-	6.6		-	Your Challenge
 	6.7		-	My Solution
